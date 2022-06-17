@@ -19,6 +19,6 @@
   "author": "Jerome Pascua",
   "license": "GNU-PL",
   "devDependencies": {
-    "electron": "^7.1.7"
+    "electron": "^15.5.5"
   }
 }
